@@ -42,7 +42,7 @@
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
-                                    <action selector="rollButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="KkR-JB-trf"/>
+                                    <action selector="rollButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lTD-s6-cUR"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -52,7 +52,6 @@
                     <connections>
                         <outlet property="dice1" destination="Ar5-w6-zxa" id="11A-HQ-d8s"/>
                         <outlet property="dice2" destination="8GM-yB-8Kc" id="klp-oM-azk"/>
-                        <outlet property="rollButton" destination="uge-gH-Ms5" id="CGz-YO-eGy"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
